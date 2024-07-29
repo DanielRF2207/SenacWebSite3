@@ -1,0 +1,16 @@
+/** Configuração da DIV de conteúdo 
+**************************************************************************************/
+
+#conteudo {
+
+    /** Largura  **/
+    width: 700px;
+    
+    /** Cor de fundo da div principal **/
+    background-color: rgb(143, 133, 175);
+
+    /** Posicionando os elementos **/
+    position: relative;
+    left: 50%;
+    margin-left: -380px;
+}

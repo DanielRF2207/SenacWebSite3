@@ -1,0 +1,65 @@
+/** Configuração da DIV do Banner com id promocao
+**************************************************************************************/
+
+#promocao {
+
+    /** Altura e margem **/
+    height: 500px;
+    margin-top: 50px;
+
+    /** Imagem do Banner  **/
+    background-image: url('https://img.ltwebstatic.com/images3_spmp/2023/12/20/72/170305224315d98879a13727f61adeffcf225dcad5_thumbnail_720x.webp');
+}
+
+
+/** Configuração do header principal da promoção com id "promocaoH1" 
+**************************************************************************************/
+
+#promocaoH1 {
+
+    /** Cor da fonte **/
+    color: rgb(255, 255, 255);
+
+    /** Tamanho de fonte **/
+    font-size: 45px;
+    
+    /** Remove a margem **/
+    margin: 0;
+    
+    /** Posicionando o elemento **/
+    margin-left: 20px;
+    position: absolute;
+
+    /** Aplica sombra ao texto **/
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+/** Configura o header com o preço no banner com id "promocaoValor" 
+**************************************************************************************/
+
+#promocaoValor {
+
+    /** Cor da fonte  **/
+    color: white;
+
+    /** Tamanho da fonte **/
+    font-size: 30px;
+
+    /** Remove a margem  **/
+    margin: 0;
+
+    /** Aplica sombra ao texto **/
+    text-shadow: 2px 2px 4px #000000;
+
+    /** Posiciona os elementos **/
+    left: 300px;
+    top: 465px;
+    position: relative;
+
+    /** Largura **/
+    width: 500px;
+}
+
+
+
