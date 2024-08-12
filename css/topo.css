@@ -40,12 +40,12 @@
 #logoImg {
 
     /** Tamanho **/
-    width: 650px;
-    height: 100px;
+    width: 150px;
+    height: 110px;
 
     /** Posição do logo **/
-    float: left;
-    margin-right: 10px;
+    float: right;
+    margin-right: 230px;
 }
 
 #tituloLogo {
