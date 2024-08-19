@@ -7,7 +7,7 @@
     width: 100%;
 
     /** Posiciona o elemento em relação ao corpo da página **/
-    height: 200px;
+    height: 137px;
 
     /** Margem interna **/
     padding-top: 10px;
@@ -20,17 +20,17 @@
 
 #logo {
     /** largura capaz de armazenar logo e título **/
-    width: 580px;
+    width: 525px;
 
     /** Altura capaz de armazenar logo e título **/    
-    height: 200px;
+    height: 100px;
 
     /** Posicionamento relativo para não encavalar com as outras DIVs **/
     position: relative;
 
     /** Centraliza a DIV **/
-    left: 55.5%;
-    margin-left: -400px;
+    left: 50%;
+    margin-left: -312px;
 }
 
 
@@ -40,12 +40,12 @@
 #logoImg {
 
     /** Tamanho **/
-    width: 150px;
-    height: 110px;
+    width: 80px;
+    height: 100px;
 
     /** Posição do logo **/
-    float: right;
-    margin-right: 230px;
+    float: left;
+    margin-right: 10px;
 }
 
 #tituloLogo {
@@ -54,7 +54,7 @@
     float: right;
 
     /** Cor do texto **/
-    color: rgb(49, 49, 49);
+    color: rgb(137,33,20);
 
     /** Posicionamento - tamanho da linha **/
     line-height: 100px;

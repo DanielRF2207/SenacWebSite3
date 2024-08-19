@@ -3,7 +3,7 @@
 
 #tituloConteudo {
     /** Define a cor **/
-    color: rgb(80, 82, 155);
+    color: rgb(135,33,20);
         
     /** Alinha ao centro **/
     text-align: center;
@@ -35,7 +35,7 @@
     width: 250px;
     
     /** Cor do texto   **/
-    color: rgb(97, 74, 72);
+    color: rgb(135,33,20);
 
     /** Tamanho de fonte   **/
     font-size: 20px;
@@ -58,7 +58,7 @@
     border-radius: 30%;
     
     /** Borda da foto  **/
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(135,33,20);
 }
 
 

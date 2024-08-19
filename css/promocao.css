@@ -4,11 +4,11 @@
 #promocao {
 
     /** Altura e margem **/
-    height: 500px;
-    margin-top: 50px;
+    height: 350px;
+    margin-top: 10px;
 
     /** Imagem do Banner  **/
-    background-image: url('https://img.ltwebstatic.com/images3_spmp/2023/12/20/72/170305224315d98879a13727f61adeffcf225dcad5_thumbnail_720x.webp');
+    background-image: url('../imagens/Screenshot_11.png');
 }
 
 
@@ -18,7 +18,7 @@
 #promocaoH1 {
 
     /** Cor da fonte **/
-    color: rgb(255, 255, 255);
+    color: white;
 
     /** Tamanho de fonte **/
     font-size: 45px;
@@ -31,7 +31,7 @@
     position: absolute;
 
     /** Aplica sombra ao texto **/
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #e50021;
 }
 
 
@@ -44,17 +44,17 @@
     color: white;
 
     /** Tamanho da fonte **/
-    font-size: 30px;
+    font-size: 38px;
 
     /** Remove a margem  **/
     margin: 0;
 
     /** Aplica sombra ao texto **/
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #e50021;
 
     /** Posiciona os elementos **/
-    left: 300px;
-    top: 465px;
+    left: 400px;
+    top: 130px;
     position: relative;
 
     /** Largura **/
